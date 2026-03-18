@@ -1,6 +1,6 @@
 # Домашнее задание к лекции «Символы, итераторы, генераторы»
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/h68hhq7k9e6idc07?svg=true)](https://ci.appveyor.com/project/AstraM86/ajs-symbols-iterators-generators)
 
 **Важно**: код должен проходить ESLint без ошибок.
 
