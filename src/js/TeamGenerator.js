@@ -1,4 +1,4 @@
-export default class Team {
+export default class TeamGenerator {
   constructor() {
     this.members = [];
   }
